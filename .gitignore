@@ -1,6 +1,0 @@
-echo # ME_802 >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/pmtorres/ME_802.git
-git push -u origin master
